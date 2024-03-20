@@ -22,8 +22,8 @@ fi
 # Elvish
 elvish_semver="v0.19.2"
 # Fish
-fish_semver="3.7.0"
-fish_apt_semver="${fish_semver}-1~jammy"
+fish_semver="3.3.1"
+fish_apt_semver="${fish_semver}+ds-3"
 # Nushell
 nushell_semver="0.86.0"
 # Powershell
